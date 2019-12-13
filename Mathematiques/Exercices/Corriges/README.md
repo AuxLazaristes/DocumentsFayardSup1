@@ -1,0 +1,1 @@
+Inutile de passer la soirée sur les exercices faits en TDs pour demain. Gardez cela pour ce weekend. Le cours jusqu'à aujourd'hui et un peu d'exercices avec des epsilon sont plus importants.
