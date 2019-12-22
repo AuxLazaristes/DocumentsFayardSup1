@@ -2,9 +2,10 @@
 
 ---
 
-## Avancement du cours
-Voici les prévisions de cours pour les prochaines semaines :
-- Semaine du 9 au 13 décembre : Fin de la continuité et des limites
-- Semaine du 16 au 20 décembre : Dérivabilité
+## Devoir pour les Sup1 qui vont en PCSI
 
-Les relations de comparaisons seront intégrées dans les cours sur les suites et sur la continuité et les limites.
+Le devoir pour les futurs PCSI est disponible ici : Mathematiques/Devoirs/DM-06/dm-6-sup1_vers_pcsi.pdf . Le corrigé sera disponible sur ce site le vendredi 3 janvier.
+
+## Cours
+
+Le cours du maths du vendredi 20 décembre est disponible ici : Mathematiques/Cours/cours_du_20_decembre.pdf
