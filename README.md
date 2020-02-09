@@ -2,6 +2,12 @@
 
 ---
 
+## Corrigé du Fourzitou
+
+Le corrigé des exercices qui étaient présents dans le Fourzitou sont disponibles :
+- Mathematiques/Cours/corrige-fourzitou-1.pdf
+- Mathematiques/Cours/corrige-fourzitou-2.pdf
+
 ## Devoir pour les Sup1 qui vont en PCSI
 
 Le devoir pour les futurs PCSI est disponible ici : Mathematiques/Devoirs/DM-06/dm-6-sup1_vers_pcsi.pdf . Le corrigé est disponible dans le meme repertoire.
